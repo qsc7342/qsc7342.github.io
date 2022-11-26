@@ -7,7 +7,7 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
 
-## Features
+## Features 
 
 * Gulp ready (compiles Sass and minifies JS)
 * Sass ready with lots of commenting
@@ -327,7 +327,7 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 * Changed contact form input / textarea colours to be based off `$base-color`
 * Changed main background to 100vh so it doesn't overflow if viewport height < 700px
 
-### 1.1.1
+### 1.1.
 
 * Made input placeholder text more readable
 * Removed timeline line when no JS
